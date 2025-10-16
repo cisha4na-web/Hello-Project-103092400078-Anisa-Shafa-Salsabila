@@ -1,9 +1,9 @@
 package main
 
 import "fmt"
-
+//batas maksimum
 const NMAX = 100
-
+//struktur data (struct) bernama Mobil.
 type Mobil struct {
 	Nama        string
 	TahunKeluar int
